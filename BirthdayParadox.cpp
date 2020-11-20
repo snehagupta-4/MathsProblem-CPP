@@ -15,4 +15,3 @@ int paradox(){
 
     return 0;
 }
-
